@@ -14,5 +14,5 @@
 ### Each tasks was completed, please see attached result and find more results in /Results         
         
         
-{'8901725114916': 2, '8901063160088': 2, '8901030578199': 1}
+- {'8901725114916': 2, '8901063160088': 2, '8901030578199': 1}
 <img src="https://github.com/devsonni/Mowito-Assignment/blob/main/Results/2.png" alt="Result" style="height: 620px; width:1080px;"/>
