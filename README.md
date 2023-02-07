@@ -14,4 +14,4 @@
 ### Each tasks was completed, please see attached result and find more results in /Results     
 
 
-<img src="https://github.com/devsonni/Mowito-Assignment/blob/main/Results/2.png" alt="Result" style="height: 520px; width:1080px;"/>
+<img src="https://github.com/devsonni/Mowito-Assignment/blob/main/Results/2.png" alt="Result" style="height: 620px; width:1080px;"/>
