@@ -12,4 +12,4 @@
 - Task 6: Create bounding boxes of black color around each ITEM in the image ( not the barcode) ✅
 
 ### Each tasks was completed, please see attached result and find more results in /results 
-<img src="https://github.com/devsonni/Mowito-Assignment/blob/main/Results/2.png" alt="Result" style="height: 600px; width:600px;"/>
+<img src="https://github.com/devsonni/Mowito-Assignment/blob/main/Results/2.png" alt="Result" style="height: 1080px; width:720px;"/>
