@@ -1,7 +1,7 @@
-# Mowito Assignment on Computer Vision    
+# Smart-Cart Vision   
 
-- Detection_Script (main) was created in google colab for detection algorithm, clone this repository and change directory in main script for invoking trained models in script. Trained models are saved in /Trained-Model.    
-- All dependecies installation code is mentioned in colab script. Moreover, each line of code has it's own comment for understanding usage of each line.    
+- Detection_Script (main) was created in Google colab for the detection algorithm, clone this repository, and change directory in the main script for invoking trained models in the script. Trained models are saved in /Trained-Model.    
+- All dependencies installation code is mentioned in colab script. Moreover, each line of code has its own comment for understanding the usage of each line.    
 
 ## Results
 - **Task 1**: The output should contain the **value of barcode**, and how many times every barcode appears in the image ( there could be repetitions of the barcode). This output could be printed ✅
@@ -11,7 +11,7 @@
 - **Task 5**: Create a Bounding box of **red color** on the input image around items that did not have any barcodes ✅
 - **Task 6**: Create bounding boxes of **black color** around each ITEM in the image ( not the barcode) ✅
 
-### Each tasks was completed, please see attached result and find more results in /Results         
+### Each task was completed, please see the attached result and find more results in /Results         
         
         
 - {'8901725114916': 2, '8901063160088': 2, '8901030578199': 1}
